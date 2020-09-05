@@ -1,6 +1,8 @@
 # Sentimental analysis of reviewers' feedback using BERT
 
-**Note:** Retraining the BERT model took a long time to run at local computer, to run in the colab will be a good choice
+**Note:** Retraining the BERT model took a long time using a local computer, to run in the Google Colab will be a good choice
+
+![](./figs/word_cloud_tweet.png)
 
 ## Objectives
 
